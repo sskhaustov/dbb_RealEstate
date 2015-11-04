@@ -1,0 +1,25 @@
+C:\Users\gunya06\AppData\Local\Temporary Projects\dbb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gunya06\AppData\Local\Temporary Projects\dbb\obj\Debug\dbb.Form1.resources
+C:\Users\gunya06\AppData\Local\Temporary Projects\dbb\obj\Debug\dbb.Properties.Resources.resources
+C:\Users\gunya06\AppData\Local\Temporary Projects\dbb\obj\Debug\dbb.csproj.GenerateResource.Cache
+C:\Users\gunya06\AppData\Local\Temporary Projects\dbb\bin\Debug\dbb.exe
+C:\Users\gunya06\AppData\Local\Temporary Projects\dbb\bin\Debug\dbb.pdb
+C:\Users\gunya06\AppData\Local\Temporary Projects\dbb\obj\Debug\dbb.exe
+C:\Users\gunya06\AppData\Local\Temporary Projects\dbb\obj\Debug\dbb.pdb
+D:\mySQl\dbb\dbb\obj\Debug\dbb.exe
+D:\mySQl\dbb\dbb\obj\Debug\dbb.pdb
+D:\mySQl\dbb\dbb\obj\Debug\ResolveAssemblyReference.cache
+D:\mySQl\dbb\dbb\obj\Debug\dbb.Form1.resources
+D:\mySQl\dbb\dbb\obj\Debug\dbb.Properties.Resources.resources
+D:\mySQl\dbb\dbb\obj\Debug\dbb.csproj.GenerateResource.Cache
+D:\mySQl\dbb\dbb\bin\Debug\dbb.exe
+D:\mySQl\dbb\dbb\bin\Debug\dbb.pdb
+D:\mySQl\dbb\dbb\obj\Debug\dbb.Add.resources
+D:\mySQl\dbb\dbb\obj\Debug\dbb.AddContacts.resources
+D:\mySQl\dbb\dbb\obj\Debug\dbb.AddFacility.resources
+D:\mySQl\dbb\dbb\obj\Debug\dbb.ListStations.resources
+D:\mySQl\dbb\dbb\obj\Debug\dbb.AddStation.resources
+D:\mySQl\dbb\dbb\obj\Debug\dbb.Form2.resources
+D:\mySQl\dbb\dbb\obj\Debug\dbb.Search.resources
+D:\mySQl\dbb\dbb\obj\Debug\dbb.Client.resources
+D:\mySQl\dbb\dbb\obj\Debug\dbb.stc.resources
